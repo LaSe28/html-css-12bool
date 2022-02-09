@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 700px;
+    margin: auto;
+}
+
+[class*="col-"]{
+    height: 60px;
+    background-color: rebeccapurple;
+}
+
+.black{
+    background-color: black;
+}
+
+.d-red{
+    background-color: #6E130B;
+}
+
+.red{
+    background-color: #9C1F14;
+}
+
+.d-yellow{
+    background-color: #A37F29;
+}
+
+.yellow{
+    background-color: #CC9E35;
+}
+
+.light{
+    background-color: #9CC6FA ;
+}
